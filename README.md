@@ -1,4 +1,5 @@
 **Steps to run Lasso, SVM and GLM Models**
+
 A.	Rider to rider –
 1.	Go to rider folder in google drive and copy the folder ID from the URL and paste/replace it in the `file_list` query and run the code section. This will import the ride files in the /root/data directory.
 2.	After importing the files, rename one ride file to *‘test_’*. Make sure `all_files` and `test_files` variables are set as ‘rider_*.csv’ and ‘test_*.csv’.
